@@ -1,0 +1,6 @@
+@CloudInfrastructureMonitoring.Api_HostAddress = http://localhost:5182
+
+GET {{CloudInfrastructureMonitoring.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
